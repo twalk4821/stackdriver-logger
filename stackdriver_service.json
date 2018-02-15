@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bluecapmining",
+  "private_key_id": "732c17aef0b9635160e246cb26f150447ae691b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC46DBBUIE1fmR6\nFngTwkqtjTCidx94OKwFBZ5fROVGknxYp4AvWpss0oxJl+BZnLV2JvxhJ0oI2ZEV\nL7BTbQUazXPUCRZpOCh76HUBHIq0AD+AjGCX8ud+fJwazlIu7eOkAV42KwFq7Azr\nEQe9WCLFwE8rItnTy2e6Iw/chbXiqNNESY8M355Xo6/xmAAeNpNXAvTO1jz9tOw7\nGr9Pbt8+DUlbZcXs7LbQ45HFDFeJt4O8y3p/X0hWvH/V4gyW0EhXUQgqTNeRvVi5\nq5YSf/s6+JB0C7scsI5RMbGA0ypfELLXTsmO0eCAWJdCeOL7wbU6NHV/Irwkrnni\nSUsksYwFAgMBAAECggEAJxrTubxw1wNX9Inz8xnP+Uw20OUofqBdoOJDUBqd8oLg\nUU97SIh88MnGaXn5NHpz1f0Auvs4KQ76I+TmAX646aYxrNIPL0l1Jl9O/2Et5Et5\nIpKNixUP6CwqR3EC6HHfBrxTVFlb/2TUhpIfdOfC0teM5q6EKsqFsVPg8t5ETR7T\nDByuoqBZofSU7vZrVQWPE3nsXbKPyX6yotMqnZVl/IqBRH2LfnUYCmlhhRHcPmCX\n8jKUVXNu+7I6F0ltpsK2TXciR/S7+XhV1gLjw0QGMKgqc8ciBng7auAUE8DwrC3R\nYm1WkRj/Ibotq6hFELsygZj2P74btbDzhwZmhad4AQKBgQDkjDyQIg6XW/ZC7LUu\nxmp0p5vhRxmdPMvYb8FAqmz9O+zWTtbdazhVo20zFw2dfHRKh7ttcHybEm6FmIPI\nk2mmB3OIUWUWXrhlsCIIxpRWnujIzaTVp7tJxO5qIvAruNkBugnPmjVazZj1X+7V\nCKkQJkPtPfbCUygJijMeJTMihQKBgQDPHgMxUTw5jKqQo3KyZZjFMgHJlOhVpjF6\nnAgywRUGsRHJlULiX9sfEAf97FzT5+/XjtstyYPOAzFHRTVkS8xZdhwCCym7eD2h\nIg14yqGpGpPSqM+Np+UNhcVBiH9k9GmIeZI8/r3DyEw9hQsJ3hvo4vdCILsrLNSo\nMvZgyb67gQKBgQCvR3YzPEtgfeDyFsQl6Xo/mUQNlA/q7XOQvLTDuXD5DfpnqfNT\nwSVlWH8pTabdf1NYzZxLJJgL/ijRQNThAV1nPhO3GmWisGZPZrPTcyjU/e6eAklG\nqusSenw23jC/93ZGwr0/gI8m4sNKfJaYv5mZjx9NVdZn1orANkNZ/UGoWQKBgBal\nk3fLCCjKxsO1+46iKUg2pZdjHtxupa5gbU0Pa7sllWpTVdLm5FDLMfSD6cqJ6+HI\nDxM8m5rlInhGiwYCe7+0eG+IxPFovmRmEs8IaRDShSNdrgQxPYxy+hSmVje1uexg\nTqs4t4s21Y9Mgt57WNXoK10hsxWPe1lA6UvAA4kBAoGAepqnH8btODcwquTiwly4\nhm8cmBKp0HdT8CUfsP4H45czTEw+P5cgga/RRWAQYE6qmjsmvQ+vIpq76h46zg5I\nUT5tpZ79B/YRXzPZtiklJp+4TIQIOVec6N8r+ddspWCksS7RFvYJkoxiD97mPUZi\nZKVd907ILqfgwl7wY8bSnRI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stackdriver-service-account@bluecapmining.iam.gserviceaccount.com",
+  "client_id": "103457416938060911739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stackdriver-service-account%40bluecapmining.iam.gserviceaccount.com"
+}
